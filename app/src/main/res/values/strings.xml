@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseV3-test</string>
+
+    <array name="city">
+        <item>Taipei</item>
+        <item>Tainan</item>
+        <item>YourHome</item>
+    </array>
+</resources>
